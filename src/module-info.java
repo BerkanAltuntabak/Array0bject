@@ -1,0 +1,2 @@
+module Array0bject {
+}
